@@ -41,6 +41,7 @@ setup(
             'dj-email-url',
             'dj-search-url',
             'Sphinx>=1.4',
+            'django-appconf',
         ],
     },
     classifiers=[
